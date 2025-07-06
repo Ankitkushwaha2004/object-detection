@@ -7,3 +7,7 @@ YOLO
 SSD
 Faster R-CNN
 Support for running YOLO/DarkNet has been added to OpenCV dnn module 
+Dependencies
+opencv
+numpy
+pip install numpy opencv-python
